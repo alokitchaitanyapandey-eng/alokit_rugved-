@@ -1,0 +1,37 @@
+The GIT COMMANDS I have used are mentioned below-
+
+git --version
+=>checks the version of Git installed on the device
+
+mkdir
+=> make directory is basically making a new folder
+
+cd
+=> change directory is moving into the folder
+
+touch
+=> creates a new file inside the folder
+
+git init
+=> It initializes a Git repository
+
+git status
+=> It shows whats the current status of the repository
+
+git add
+=> stages the files for commit
+
+git commit
+=> Commit is to save the changes into Git history
+
+git clone
+=> Used to clone/copy the repository onto the computer
+
+git push
+=>Uploads commits from the computer to GitHub.   
+
+git pull 
+=> Gets the latest changes from Github.
+
+git remote add origin
+=> This connects the local repository to the 
