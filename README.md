@@ -1,1 +1,34 @@
 # alokit_rugved-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MIT MANIPAL</title>
+</head>
+<body>
+    
+    
+    <h1 style="text-align: center;">MIT Manipal</h1>
+   
+    <img src="https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTiKJpX_HVm_VwXN71DzsteJHB2xH2XtUI_IkkdwiDRHIuKjM0AuRaZOV2T0rsTfLGR9yVk2iLeyMHWpiw" 
+     alt="MIT Manipal Campus" 
+     width="900">
+     <br>
+     <a href = "https://en.wikipedia.org/wiki/Manipal_Institute_of_Technology" target="_blank"> for more information click here </a>
+     <h1><u>Introduction</u></h1>
+     <br>
+     <p>    Manipal Institute of Technology (MIT) is a private engineering college and constituent institution of the Manipal Academy of Higher Education (MAHE) located in Manipal, Karnataka, India</p>
+
+     <h6>Establishment year: 1963</h6>
+<br>
+<h2>Campuses Across India</h2>
+<p> MIT has campuses in several locations across India, including Manipal, Bengaluru,Jaipur, Sikkim. </p>
+<br>
+<h2>Student Projects</h2>
+<p>Student engineering teams at MIT participate in competitions related to automotive engineering, rocketry, robotics, aeromodelling, and rover design.</p>
+<p>ONE OF THE MOST RECOGNIZED STUDENT PROJECTS IS THE RUGVED.</p>
+<P>To Know About THE RUGVED , CLIK BELOW</P>
+<a href = "https://rugved.co.in/" target="_blank"> Rugved </a>
+</body>
+</html>
